@@ -1,0 +1,38 @@
+  form{
+    text-align: center;
+  }
+  h1{
+    bacground: black;
+    text-align: center;
+  }
+  #super_login,#gotohome,#back_bt, #login_bt{
+    border: 0px solid black;
+    width: 200px;
+    height: 60px;
+    margin: auto;
+    background: #FFA63D;
+    border-radius: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+
+  }
+  #Title{
+    color:#D2E1FF;
+     font-weight: bold;
+     font-size: 50px;
+     text-align: center;
+  }
+  #google_login{
+    text-align: center;
+  }
+  #home{
+    text-align: center;
+  }
+  #super_HTML{
+    text-align: center;
+
+  }

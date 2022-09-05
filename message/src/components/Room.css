@@ -1,0 +1,78 @@
+
+#chat_list{
+ border-collapse: collapse;
+ text-align: center;
+ line-height: 1.5;
+ margin : 20px 10px;
+ border: 0px solid black;
+ background: #ECF1FF;
+ border-radius: 20px;
+}
+tr {
+  width: 100px;
+  padding: 5px;
+  font-weight: bold;
+}
+td {
+  padding: 10px;
+  border: 0px solid black;
+  height: 10px;
+}
+
+#td_user_state{
+  padding: 10px 20px 10px 20px;
+  border: 0px solid black;
+  text-align: center;
+  height: 20px;
+  margin: auto;
+  border-radius: 30px;
+  background: white;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: black;
+}
+
+#ch_input{
+  padding: 10px 20px 10px 20px;
+  border: 1px solid black;
+  text-align: left;
+  height: 20px;
+  width: 380px;
+  margin: 10px;
+  border-radius: 30px;
+  background: white;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: black;
+}
+#ch_submit{
+  border: 0px solid black;
+  width: 100px;
+  height: 40px;
+  margin: 5px;
+  background: #FF6464;
+  border-radius: 30px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+
+#ch_nick{
+  width: 120px;
+  margin:3px 0px 3px 0px;
+  padding:0px;
+  font-size: 15px;
+}
+#empty_chat{
+  margin:0px;
+  width:70px;
+  height:40px;
+}
